@@ -1,0 +1,9 @@
+/* This is for sub classes of main elements styling like p class="" 
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+ .text-center {
+    text-align: center;
+    background-color: black;
+    height: 15vh;
+    font-size: 5vw;
+    color: white;
+} */
